@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Package Control",
+		"Python PEP8 Autoformat"
+	]
+}

@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+################################################################################
+#
+# Copyright (c) 2018 Baidu.com, Inc. All Rights Reserved
+#
+################################################################################
+"""
+
+
+Authors: zhangle11(zhangle11@baidu.com)
+Date:    ${1:shift+alt+d}
+
+"""
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>head</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

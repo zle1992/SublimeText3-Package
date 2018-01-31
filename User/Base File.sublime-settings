@@ -1,0 +1,10 @@
+  {
+    "jsdocs_extra_tags":[
+        "@Author zhangle11",
+        "@DateTime {{date}}",
+        "@copyright ${1:[copyright]}",
+        "@license ${1:[license]}",
+        "@version ${1:[version]}"
+    ],
+    "jsdocs_function_description": false
+  }
