@@ -18,6 +18,6 @@ alt+ctrl+d 自动生成时间
 Python PEP8 Autoformat    
 #### alt+ctrl+r 自动规范代码    
 
-# 2 用法：
+## 2 用法：
 将此文件夹放在     
 Preferences--> Browser Package 目录下
